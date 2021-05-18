@@ -4,4 +4,5 @@
 ### [Curriculum Vitae](/blumenfeld_resume_5-08.pdf)
 ### [LinkedIn](https://www.linkedin.com/in/nathanblumenfeld/)
 ### [Twitter](https://twitter.com/blumenfeldnate)
+### [Kaggle](https://www.kaggle.com/nathanblumenfeld)
 
