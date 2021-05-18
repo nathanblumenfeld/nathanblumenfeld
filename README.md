@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 ### I'm Nathan, a second-year student at Cornell Engineering studying Data Science. 
 ### Feel free to say hi! --> njb93@cornell.edu
 ### [Curriculum Vitae](/blumenfeld_resume_5-08.pdf)
