@@ -1,5 +1,5 @@
 ### Hello there! 👋
-## I'm Nathan, a third-year student at Cornell Engineering studying Data Science. I'm at Cameo this summer as a Data and Analytics Intern.
+## I'm Nathan, a third-year student at Cornell Engineering studying Data Science.
 ### [Curriculum Vitae](/blumenfeld_resume_5-08.pdf)
 ### [LinkedIn](https://www.linkedin.com/in/nathanblumenfeld/)
 ### [Twitter](https://twitter.com/blumenfeldnate)
