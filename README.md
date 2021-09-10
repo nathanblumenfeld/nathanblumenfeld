@@ -1,6 +1,6 @@
 ### Hello there! 👋
 ## I'm Nathan, a third-year student at Cornell Engineering studying Data Science.
-### [Curriculum Vitae](/blumenfeld_resume_5-08.pdf)
+### [Curriculum Vitae](/blumenfeld_resume.pdf)
 ### [LinkedIn](https://www.linkedin.com/in/nathanblumenfeld/)
 ### [Twitter](https://twitter.com/blumenfeldnate)
 ### [Kaggle](https://www.kaggle.com/nathanblumenfeld)
