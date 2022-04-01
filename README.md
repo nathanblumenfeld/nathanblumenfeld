@@ -1,6 +1,6 @@
 ### Hello there! 👋
 ## I'm Nathan, a third-year student @ Cornell Engineering. Currently @ BaseballCloud, formerly @ Cameo, incoming @ Amazon
-#### [Resume](/blumenfeld_resume_FA21.pdf)
+#### [Resume](https://github.com/nathanblumenfeld/nathanblumenfeld/files/8400705/blumenfeld_resume_sp22.pdf)
 #### [LinkedIn: nathanblumenfeld](https://www.linkedin.com/in/nathanblumenfeld/)
 #### [Twitter: @blumenfeldnate](https://twitter.com/blumenfeldnate)
 #### [Email: njb93@cornell.edu](mailto:njb93@cornell.edu)
