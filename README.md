@@ -1,5 +1,5 @@
 ### Hello there! 👋
-## I'm Nathan, a rising Senior @ Cornell Engineering and Data Engineer Intern @ Amazon
+## I'm Nathan, a Senior at Cornell University 
 #### [Resume](https://github.com/nathanblumenfeld/nathanblumenfeld/files/8400705/blumenfeld_resume_sp22.pdf)
 #### [LinkedIn: nathanblumenfeld](https://www.linkedin.com/in/nathanblumenfeld/)
 #### [Twitter: @blumenfeldnate](https://twitter.com/blumenfeldnate)
