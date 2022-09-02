@@ -6,6 +6,6 @@
 #### [Email: njb93@cornell.edu](mailto:njb93@cornell.edu)
 
 ### Some stuff I've made: 
-#### [![abstract_0 5x](https://user-images.githubusercontent.com/33358095/160667201-a78021e3-8fa1-4149-b634-e543017f772f.png)](https://share.streamlit.io/nathanblumenfeld/abstract/main/app.py)     
+#### [![abstract_0 5x](https://user-images.githubusercontent.com/33358095/160667201-a78021e3-8fa1-4149-b634-e543017f772f.png)](https://nathanblumenfeld-abstract--leaderboards-5e6w0h.streamlitapp.com/)     
 #### [collegebaseball](https://github.com/nathanblumenfeld/collegebaseball), an open-source Python package for college baseball data acquisition and analysis.
 
