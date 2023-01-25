@@ -1,6 +1,5 @@
-### hi there! 
-## I'm Nathan, a Senior at Cornell 
-#### [Resume (I'm currently recruiting!)](https://github.com/nathanblumenfeld/nathanblumenfeld/files/9948060/blumenfeld_resume_current.pdf)
+### Hi there! I'm Nathan, a Senior at Cornell. 
+#### [Resume](https://github.com/nathanblumenfeld/nathanblumenfeld/files/9948060/blumenfeld_resume_current.pdf)
 #### [LinkedIn: nathanblumenfeld](https://www.linkedin.com/in/nathanblumenfeld/)
 #### [Twitter: @blumenfeldnate](https://twitter.com/blumenfeldnate)
 #### [Email: njb93@cornell.edu](mailto:njb93@cornell.edu)
